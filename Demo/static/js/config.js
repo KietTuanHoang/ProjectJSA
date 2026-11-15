@@ -1,1 +1,0 @@
-const meal_API_KEY = "/1/"
